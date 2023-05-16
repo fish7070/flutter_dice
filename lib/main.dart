@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Image.asset('assets/images/dice.png', width: 200, height: 200),
+            Image.asset('assets/images/dice1.png', width: 200, height: 200),
             const SizedBox(height: 50),  // 為圖片和按鈕之間提供空間
             ElevatedButton(
               onPressed: () {
